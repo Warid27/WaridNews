@@ -9,3 +9,8 @@ Tugas CRUD PHP & MySQLi membuat website berita dengan fungsi:
 1. Multiuser login
 2. Create, Read, Update, & Delete ( User / Berita )
 3. Role: notsign, operator, admin, & superadmin
+
+Fungsi Tambahan:
+1. Lightmode & Darkmode
+2. Alert (SweetAlert2)
+3. Text Editor (CKEDITOR)
